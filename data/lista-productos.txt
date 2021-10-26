@@ -1,0 +1,12 @@
+[
+	{
+		"id": "kudpkhf5",
+		"timestamp": 1633415758385,
+		"nombre": "Lomito ",
+		"descripcion": "Lomito ahumado marca Calchaqui",
+		"codigo": "ucwt87i5kudpkhf6",
+		"url": "https//:thumbail1.com",
+		"precio": "90",
+		"stock": "1"		
+	}
+]

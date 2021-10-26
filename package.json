@@ -1,0 +1,27 @@
+{
+  "type": "module",
+  "name": "tp-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./server/server.js",
+    "test": "nodemon --experimental-json-modules ./server/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase-admin": "^10.0.0",
+    "knex": "^0.95.11",
+    "mongoose": "^6.0.12",
+    "mysql": "^2.18.1",
+    "sqlite": "^4.0.23",
+    "sqlite3": "^5.0.2",
+    "uniqid": "^5.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
